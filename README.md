@@ -220,7 +220,7 @@ Response
 <h2 align="center">🖥️ Screenshots</h2>
 
 <p align="center">
-> UI preview, conversation demo, etc.
+<img src="https://raw.githubusercontent.com/irmita-dev/aiva-ai-virtual-assistant/refs/heads/main/aiva_ai_virtual_assistant_demo_irmita_dev.png" width="65%" />
 </p>
 
 <hr />
